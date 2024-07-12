@@ -2,7 +2,7 @@
 
 Pre-requisite:
 
-openjdk-11-jre
+openjdk-11-jre,
 maven
 
 Clone the application from the Github and save it in locally:
