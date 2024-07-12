@@ -1,5 +1,10 @@
 # dissertation-for-mtech
 
+Pre-requisite:
+
+openjdk-11-jre
+maven
+
 Clone the application from the Github and save it in locally:
 
 git clone https://github.com/2020wa86896/dissertation-for-mtech.git
