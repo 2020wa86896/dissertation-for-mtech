@@ -1,6 +1,12 @@
 # dissertation-for-mtech
 
+Clone the application from the Github and save it in locally:
+
+git clone https://github.com/2020wa86896/dissertation-for-mtech.git
+
 Execute the Maven targets to generate the artifacts
+
+cd SpringBootApplication/
 
 => mvn clean package
 
